@@ -1,0 +1,33 @@
+    1  git
+    2  git status
+    3  git status
+    4  git show
+    5  git init
+    6  git config --global user.name "Hrishi-092"
+    7  git config --global user.email "hrishikeshwork092@gmail.com"
+    8  git init
+    9  git config --list
+   10  dir
+   11  ls
+   12  cd C:/
+   13  cd C:\gitdemo
+   14  end
+   15  clear
+   16  ls
+   17  dir
+   18  clear
+   19  ls
+   20  git ls-files
+   21  ls
+   22  git status
+   23   git config --global --add safe.directory C:/gitdemo
+   24  git status
+   25  git status
+   26  git add index.html
+   27  git status
+   28  git commit -m "First File"
+   29  git status
+   30  git log
+   31  git history
+   32  history
+   33  history >>myfile.txt
